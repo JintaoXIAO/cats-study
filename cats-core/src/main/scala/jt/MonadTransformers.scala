@@ -1,6 +1,6 @@
 package jt
 
-
+package monadtransformers
 
 object MonadTransformers extends App {
 
